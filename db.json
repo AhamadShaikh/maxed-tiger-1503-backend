@@ -541,5 +541,41 @@
       "style": "shirt",
       "id": 28
     }
+  ],
+  "StaticImage1": [
+    {
+      "image": "https://cdna.lystit.com/cms/fcd48cad_2b66_4002_9f12_6e9ad7e6efc1_c7f9d02ae0.png",
+      "name": "DENIM ON DENIM"
+    },
+    {
+      "image": "https://cdna.lystit.com/cms/62a57ab9_cc2d_49cb_97d5_83fc4e8751c4_9de7020b81.png",
+      "name": "ELEVATED BASICS"
+    },
+    {
+      "image": "https://cdna.lystit.com/cms/97d22e43_344e_4fe8_a5bb_ec1043598b37_16b49046c0.png",
+      "name": "3D BLOOMS"
+    },
+    {
+      "image": "https://cdna.lystit.com/cms/b647eeb8_cc92_49cb_8d4d_c9ae9df2e3bf_7bef19f0d1.png",
+      "name": "3D BLOOMS"
+    }
+  ],
+  "StaticImage2": [
+    {
+      "image": "https://cdna.lystit.com/cms/Lyst_CA_Dreaming_600x600_No_Copy_f4872fa27c.jpg",
+      "name": "POLO RALPH LAUREN CALIFORNIA DREAMING"
+    },
+    {
+      "image": "https://cdna.lystit.com/cms/Moncler_Female_mobile_20f6e9fe83.jpg",
+      "name": "MONCLER SHOP THE TRAILGRIP"
+    },
+    {
+      "image": "https://cdna.lystit.com/cms/HP_Top_Lyst_1_3be80201f9.jpg",
+      "name": "SPRINGA '23 HAS LANDED AT MODA OPERANDI"
+    },
+    {
+      "image": "https://cdna.lystit.com/cms/b3f1914f_9c86_4308_932d_38e350901307_fecb40b13f.png",
+      "name": "BIG BAG ENERGY"
+    }
   ]
 }
