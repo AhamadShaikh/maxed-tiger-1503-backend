@@ -96,14 +96,54 @@
       "id": 3
     },
     {
+      "image": "https://cdna.lystit.com/520/650/n/photos/dolcegabbana/eab2a548/dolce-gabbana-Multicolor-Rabbit-print-Silk-jogging-Pants.jpeg",
+      "name": "Dolce & Gabbana",
+      "detail": "Men's Blue Rabbit-print Silk jogging Pants",
+      "brandName": "Dolce & Gabbana",
+      "totalPrice": 809,
+      "discount": 6,
+      "description": "Silk twill straight-leg jogging pants with rabbit print: Regular fit. Stretch waistband with drawstring. Front slant pockets and patch back pocket.",
+      "id": 4
+    }
+    ,{
       "image": "https://cdna.lystit.com/520/650/n/photos/cettire/680f064a/alexander-mcqueen-Black-Logo-Band-Polo-Shirt.jpeg",
       "name": "Alexander McQueen",
       "detail": "Men's Black Harness Polo",
       "brandName": "Cettire",
-      "totalPrice": 506,
-      "discount": 9,
+      "totalPrice": 778,
+      "discount": 7,
       "description": "McQueen Harness Polo is Made in Italy and features the signature Alexander McQueen strip harness with instantly recognisable McQueen branding accents. ",
-      "id": 4
+      "id": 5
+    },
+    {
+      "image": "https://cdna.lystit.com/520/650/n/photos/mytheresa/a97ed40d/dolce-gabbana-black-Bomber-Jacket-With-Logo.jpeg",
+      "name": "Dolce & Gabbana",
+      "detail": "Men's Jackets Black",
+      "brandName": "Mytheresa",
+      "totalPrice": 1139,
+      "discount": 8,
+      "description": "Need an extra layer before you head out for the night? Cover yourself with this black logo plaque bomber jacket from dolce & gabbana that has an elegant front logo plaque that gives this outerwear an elegant edge.",
+      "id": 6
+    },
+    {
+      "image": "https://cdna.lystit.com/520/650/n/photos/mytheresa/72703295/saint-laurent-black-Veste-teddy-en-laine-melangee.jpeg",
+      "name": "Saint Laurent",
+      "detail": "Men's Black Teddy College Varsity Jacket",
+      "brandName": "Mytheresa",
+      "totalPrice": 3493,
+      "discount": 8,
+      "description": "Saint laurent teddy college varsity jacket in black - black & white. Self: 90% wool 10% polyamide rib: 97% wool 2% polyamide 1% elastan trim: 100% calf leather lining: 60% cupro 40% cotton pocket lining: 100% cotton.",
+      "id": 7
+    },
+    {
+      "image": "https://cdna.lystit.com/520/650/n/photos/cettire/0c436af9/alexander-mcqueen-Green-Zipped-Hooded-Jacket.jpeg",
+      "name": "Alexander McQueen",
+      "detail": "Men's Green Blake Print Windbreaker Jacket",
+      "brandName": "Cettire",
+      "totalPrice": 655,
+      "discount": 5,
+      "description": "Hooded windbreaker jacket by alexander mcqueen crafted in sustainable polyfaille, decorated with a print on the back taken from an illustration by william blake.",
+      "id": 8
     }
   ],
   "womenswear": [
