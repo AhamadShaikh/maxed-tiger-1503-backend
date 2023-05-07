@@ -1,388 +1,387 @@
 {
-  "users": [
+  "user": [
     {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com",
-      "password": "12345"
+      "email": "Ahamad@123gmail.com",
+      "password": "ahamad@123"
     },
     {
       "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org",
-      "password": "12345"
+      "email": "Anand@456gmail.com",
+      "password": "anand@456"
+    }
+  ],
+  "comments":[],
+  "userdetail": [
+    {
+      "id": 1,
+      "name": "Khushimoy Roy",
+      "proffession": "Web Design & Developer | Wordpress & eCommerce Expert",
+      "address": "Dinajpur, Bangladesh",
+      "type":"medical",
+      "project_views": 24322,
+      "Appreciations": 2783,
+      "folowers": 1200,
+      "following": 500,
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/7f6050166230797.64147c8616406.png"
+    },
+    {
+      "id": 2,
+      "name": "Khushimoy Roy",
+      "proffession": "Web Design & Developer | Wordpress & eCommerce Expert",
+      "address": "Dinajpur, Bangladesh",
+      "type":"medical",
+      "project_views": 24322,
+      "Appreciations": 2783,
+      "folowers": 1200,
+      "following": 500,
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/5d1069166231721.64147fcfafa82.png"
+    },
+    {
+      "id": 2,
+      "name": "Vera Vasileva",
+      "proffession": "Health planner and pills tracker :: UI UX design",
+      "address": "Dinajpur, Karnatka",
+      "type":"health",
+      "project_views": 3235,
+      "Appreciations": 3232,
+      "folowers": 556,
+      "following": 100,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/3fb68b132314583.Y3JvcCw0MjA2LDMyOTAsMzY0LDA.jpg"
     },
     {
       "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com",
-      "password": "12345"
+      "name": "Olha Yermolaieva",
+      "proffession": "UI/UX case study - medical diagnostic center",
+      "address": "Pune, Maharashtra",
+      "type":"health",
+      "project_views": 66656,
+      "Appreciations": 10366,
+      "folowers": 2121,
+      "following": 1125,
+      "image": "https://t4.ftcdn.net/jpg/01/33/33/41/240_F_133334155_X23HzbJKawbIgXVaub4bPM8CjpkS5uMS.jpg"
     },
     {
       "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "email": "aproback3@theglobeandmail.com",
-      "password": "12345"
+      "name": "Mary Up",
+      "proffession": "Mobile App - MedEvi",
+      "address": "Hydrabad, Karnataka",
+      "type":"medical",
+      "project_views": 6662,
+      "Appreciations": 566,
+      "folowers": 333,
+      "following": 122,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/dafd88166155653.Y3JvcCw4MDgsNjMyLDAsMA.jpg"
     },
     {
       "id": 5,
-      "name": "Roda Chappelow",
-      "age": 31,
-      "email": "rchappelow4@oaic.gov.au",
-      "password": "12345"
+      "name": "Bogdan Skripnik",
+      "proffession": "Medical platform for doctors, nurses and their patients",
+      "address": "West Mumbai ,Mumbai",
+      "type":"health",
+      "project_views": 6565,
+      "Appreciations": 5550,
+      "folowers": 1223,
+      "following": 122,
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/4b9e0d165426567.640877dd2943b.jpg"
     },
     {
       "id": 6,
-      "name": "Karney Wylie",
-      "age": 22,
-      "email": "kwylie5@miitbeian.gov.cn",
-      "password": "12345"
+      "name": "John Doe",
+      "proffession": "Ortho—M",
+      "address": "New York",
+      "type":"clinic",
+      "project_views": 9968,
+      "Appreciations": 5656,
+      "folowers": 821,
+      "following": 356,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/60dc35141523425.Y3JvcCwxNjE2LDEyNjQsMCww.jpg"
     },
     {
       "id": 7,
-      "name": "Cammi Pimbley",
-      "age": 63,
-      "email": "cpimbley6@nyu.edu",
-      "password": "12345"
+      "name": "Raman Yukhnevich",
+      "proffession": "Nordin Medical Website Redesign",
+      "address": "Pune, Mahrashtra",
+      "type":"clinic",
+      "project_views": 9828,
+      "Appreciations": 5256,
+      "folowers": 365,
+      "following": 642,
+      "image": "https://www.behance.net/gallery/167461911/Nordin-Medical-Website-Redesign"
     },
     {
       "id": 8,
-      "name": "Gavra Manning",
-      "age": 43,
-      "email": "gmanning7@lycos.com",
-      "password": "12345"
+      "name": "John Doe",
+      "proffession": "Nordin Medical Website Redesign",
+      "address": "Pune, Mahrashtra",
+      "type":"clinic",
+      "project_views": 9968,
+      "Appreciations": 5656,
+      "folowers": 821,
+      "following": 356,
+      "image": "https://www.behance.net/gallery/167461911/Nordin-Medical-Website-Redesign"
+    },
+    {
+      "id": 9,
+      "name": "Nathan Viezzer",
+      "proffession": "Social Média - Odontocom",
+      "address": "England",
+      "type":"hospital",
+      "project_views": 35526,
+      "Appreciations": 9828,
+      "folowers": 3656,
+      "following": 3002,
+      "image": "https://www.behance.net/gallery/167657475/Social-Mdia-Odontocom"
     },
     {
       "id": 10,
-      "name": "Chucho Norssister",
-      "age": 20,
-      "email": "cnorssister9@mayoclinic.com",
-      "password": "12345"
+      "name": "Villym Barber",
+      "proffession": "Social Media | Nutricionista",
+      "address": "England",
+      "type":"hospital",
+      "project_views": 3565,
+      "Appreciations": 3266,
+      "folowers": 323,
+      "following": 125,
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/5b0ab2165693081.640b7f0e24fb6.png"
+    },
+    {
+      "id": 11,
+      "name": "Jonny Butcher",
+      "proffession": "Social Media | Nutricionista",
+      "address": "England",
+      "type":"hospital",
+      "project_views": 3565,
+      "Appreciations": 632,
+      "folowers": 363,
+      "following": 256,
+      "image": "https://www.behance.net/videos/44d0cbb0-994f-4d0d-bd32-1cb6d47cae0f/Putting-Together-Paper-Medical-Gloves?tracking_source=to_replay"
+    },
+    {
+      "id": 12,
+      "name": "Sandy Lawer",
+      "proffession": "INNATE CO.",
+      "address": "England",
+      "type":"hospital",
+      "project_views": 3565,
+      "Appreciations": 632,
+      "folowers": 363,
+      "following": 256,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/9aebde165693081.Y3JvcCwxNDI1LDExMTUsNDUsMA.png"
+    },
+    {
+      "id": 13,
+      "name": "Olha Yermolaieva",
+      "proffession": "UI/UX case study - medical diagnostic center",
+      "address": "Pune, Maharashtra",
+      "type":"medicine",
+      "project_views": 66656,
+      "Appreciations": 10366,
+      "folowers": 2121,
+      "following": 1125,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/dc18c2168872839.Y3JvcCwyMDE1LDE1NzYsNDI0LDA.png"
+    },
+    {
+      "id": 14,
+      "name": "Mary Up",
+      "proffession": "Mobile App - MedEvi",
+      "address": "Hydrabad, Karnataka",
+      "type":"medicine",
+      "project_views": 6662,
+      "Appreciations": 566,
+      "folowers": 333,
+      "following": 122,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/ee03ed169756425.Y3JvcCwzMDk5LDI0MjQsNjksMA.png"
+    },
+    {
+      "id": 15,
+      "name": "Nathan Viezzer",
+      "proffession": "Social Média - Odontocom",
+      "address": "England",
+      "type":"medicine",
+      "project_views": 35526,
+      "Appreciations": 9828,
+      "folowers": 3656,
+      "following": 3002,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/4a2c9a168228359.Y3JvcCwyNTEwLDE5NjQsMjU0LDA.png"
     }
   ],
-  "menswear": [
+  "medical": [
     {
-      "image": "https://cdna.lystit.com/520/650/n/photos/grifo210/6caaab81/saint-laurent-black-Giacca-teddy.jpeg",
-      "name": "Dolce & Gabbana",
-      "detail": "Men's Black Logo Cotton Polo Shirt",
-      "brandName": "Dolce & Gabbana",
-      "totalPrice": 379,
-      "discount": 5,
-      "description": "This Dolce & Gabbana polo shirt features the brand logo on the chest and is complete with a spread collar with a three-button placket.",
-      "id": 1
+      "id": 1,
+      "name": "Khushimoy Roy",
+      "detail": "Web Design & Developer | Wordpress & eCommerce Expert",
+      "type":"medical",
+      "address": "Dinajpur, Bangladesh",
+      "project_views": 24322,
+      "Appreciations": 2783,
+      "folowers": 1200,
+      "following": 500,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/f2dd56167332055.Y3JvcCwxMjEyLDk0OCwwLDA.jpg"
     },
     {
-      "image": "https://cdna.lystit.com/520/650/n/photos/dolcegabbana/1ed7601c/dolce-gabbana-Mehrfarbig-Shorts-bi-elastischer-Jersey-DG-Logoprint.jpeg",
-      "name": "Dolce & Gabbana",
-      "detail": "Men's Black Logo Cotton Polo Shirt",
-      "brandName": "Dolce & Gabbana",
-      "totalPrice": 125,
-      "discount": 5,
-      "description": "Boxer shorts with DG logo print. Soft elasticated waistband with tonal all-over logo. Loose fit. Sizes available. From II to VII. Color: black",
-      "id": 2
+      "id": 2,
+      "name": "Khushimoy Roy",
+      "proffession": "Web Design & Developer | Wordpress & eCommerce Expert",
+      "address": "Dinajpur, Bangladesh",
+      "type":"medical",
+      "project_views": 24322,
+      "Appreciations": 2783,
+      "folowers": 1200,
+      "following": 500,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/ced75f163204519.Y3JvcCwxNDAwLDEwOTUsMCww.png"
     },
     {
-      "image": "https://cdna.lystit.com/520/650/n/photos/cettire/c2889286/dolce-gabbana-White-Dg-Logo-Round-Neck-T-shirt.jpeg",
-      "name": "Dolce & Gabbana",
-      "detail": "Men's White Logo-plaque Short-sleeved T-shirt",
-      "brandName": "Cettire",
-      "totalPrice": 219,
-      "discount": 4,
-      "description": "Logo-plaque short-sleeved T-shirt from DOLCE & GABBANA featuring chalk white, cotton blend, silver-tone logo plaque, round neck, short sleeves and straight hem. Color: white",
-      "id": 3
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/dolcegabbana/eab2a548/dolce-gabbana-Multicolor-Rabbit-print-Silk-jogging-Pants.jpeg",
-      "name": "Dolce & Gabbana",
-      "detail": "Men's Blue Rabbit-print Silk jogging Pants",
-      "brandName": "Dolce & Gabbana",
-      "totalPrice": 809,
-      "discount": 6,
-      "description": "Silk twill straight-leg jogging pants with rabbit print: Regular fit. Stretch waistband with drawstring. Front slant pockets and patch back pocket.",
-      "id": 4
-    }
-    ,{
-      "image": "https://cdna.lystit.com/520/650/n/photos/cettire/680f064a/alexander-mcqueen-Black-Logo-Band-Polo-Shirt.jpeg",
-      "name": "Alexander McQueen",
-      "detail": "Men's Black Harness Polo",
-      "brandName": "Cettire",
-      "totalPrice": 778,
-      "discount": 7,
-      "description": "McQueen Harness Polo is Made in Italy and features the signature Alexander McQueen strip harness with instantly recognisable McQueen branding accents. ",
-      "id": 5
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/mytheresa/a97ed40d/dolce-gabbana-black-Bomber-Jacket-With-Logo.jpeg",
-      "name": "Dolce & Gabbana",
-      "detail": "Men's Jackets Black",
-      "brandName": "Mytheresa",
-      "totalPrice": 1139,
-      "discount": 8,
-      "description": "Need an extra layer before you head out for the night? Cover yourself with this black logo plaque bomber jacket from dolce & gabbana that has an elegant front logo plaque that gives this outerwear an elegant edge.",
-      "id": 6
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/mytheresa/72703295/saint-laurent-black-Veste-teddy-en-laine-melangee.jpeg",
-      "name": "Saint Laurent",
-      "detail": "Men's Black Teddy College Varsity Jacket",
-      "brandName": "Mytheresa",
-      "totalPrice": 3493,
-      "discount": 8,
-      "description": "Saint laurent teddy college varsity jacket in black - black & white. Self: 90% wool 10% polyamide rib: 97% wool 2% polyamide 1% elastan trim: 100% calf leather lining: 60% cupro 40% cotton pocket lining: 100% cotton.",
-      "id": 7
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/cettire/0c436af9/alexander-mcqueen-Green-Zipped-Hooded-Jacket.jpeg",
-      "name": "Alexander McQueen",
-      "detail": "Men's Green Blake Print Windbreaker Jacket",
-      "brandName": "Cettire",
-      "totalPrice": 655,
-      "discount": 5,
-      "description": "Hooded windbreaker jacket by alexander mcqueen crafted in sustainable polyfaille, decorated with a print on the back taken from an illustration by william blake.",
-      "id": 8
+      "id": 3,
+      "name": "Vera Vasileva",
+      "proffession": "Health planner and pills tracker :: UI UX design",
+      "address": "Dinajpur, Karnatka",
+      "type":"medical",
+      "project_views": 3235,
+      "Appreciations": 3232,
+      "folowers": 556,
+      "following": 100,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/00eccd168527715.Y3JvcCwzMjc5LDI1NjUsMTIxLDA.png"
     }
   ],
-  "womenswear": [
+  "health": [
     {
-      "image": "https://cdna.lystit.com/200/250/tr/photos/eleonorabonucci/ad8a6bec/emilio-pucci--Mini-Dress-With-Flames-Print-And-Bangs.jpeg",
-      "name": "zara",
-      "detail": "Women's Mini Dress With Flames Print And Bangs",
-      "brandName": "Emilio Pucci",
-      "totalPrice": 488,
-      "discount": 5,
-      "description": "Skirt tech-jersey jacquard Trims back Vent concealed Hook And Zip Fastening At Back stretchy Fabric mid-weight Fabric hand Wash Or Dry Clean made In Italy. 88% Polyamide 12% Elastercell. Color: natural",
-      "id": 9
+      "id": 1,
+      "name": "Mary Up",
+      "proffession": "Mobile App - MedEvi",
+      "address": "Hydrabad, Karnataka",
+      "project_views": 6662,
+      "Appreciations": 566,
+      "folowers": 333,
+      "following": 122,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/49283d161400471.Y3JvcCwyNDI0LDE4OTYsMCww.png"
     },
     {
-      "image": "https://cdna.lystit.com/520/650/n/photos/dolcegabbana/c789b366/dolce-gabbana-Transparent-Pvc-Trench-Coat-With-Contrasting-Piping.jpeg",
-      "name": "Dolce & Gabbana",
-      "detail": "Women's White Pvc Trench Coat With Contrasting Piping",
-      "brandName": "Dolce & Gabbana",
-      "totalPrice": 3736,
-      "discount": 5,
-      "description": "Leopard-print stretch sateen lining. Kim Dolce&Gabbana inner label. The piece measures 120 cm on the center front from waist down on a size IT 40",
-      "id": 10
+      "id": 2,
+      "name": "Bogdan Skripnik",
+      "proffession": "Medical platform for doctors, nurses and their patients",
+      "address": "West Mumbai ,Mumbai",
+      "project_views": 6565,
+      "Appreciations": 5550,
+      "folowers": 1223,
+      "following": 122,
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/4b9e0d165426567.640877dd2943b.jpg"
     },
     {
-      "image": "https://cdna.lystit.com/520/650/n/photos/dolcegabbana/6dfafe85/dolce-gabbana-Animal-Print-Long-Faux-Fur-Coat-With-Leopard-Print.jpeg",
-      "name": "Dolce & Gabbana",
-      "detail": "Women's Brown Long Faux Fur Coat With Leopard Print",
-      "brandName": "Dolce & Gabbana",
-      "totalPrice": 8609,
-      "discount": 5,
-      "description": "Long faux fur coat with a leopard print and the Re-Edition label: Shawl lapels. Long kimono sleeves. Light insulated padding. Leopard-print stretch sateen lining. Kim Dolce&Gabbana inner label",
-      "id": 11
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/mytheresa/d3f80706/dolce-gabbana-blue-Jean-ample.jpeg",
-      "name": "Dolce & Gabbana",
-      "detail": "Women's Blue Patchwork Wide-leg Jeans",
-      "brandName": "Mytheresa",
-      "totalPrice": 2675,
-      "discount": 5,
-      "description": "Reimagining classic denim styles, Dolce&Gabbana offers a range of one-of-a-kind designs, such as these high-rise jeans. Color: blue",
-      "id": 12
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/cettire/54f7f041/alexander-mcqueen-Blue-High-waisted-Straight-Leg-Jeans.jpeg",
-      "name": "Alexander McQueen",
-      "detail": "Women's Blue Boyfriend Slim Medium Wash Jeans",
-      "brandName": "Cettire",
-      "totalPrice": 232,
-      "discount": 10,
-      "description": "Reimagining classic denim styles, Dolce&Gabbana offers a range of one-of-a-kind designs, such as these high-rise jeans. Color: blue",
-      "id": 13
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/jarlolondon/edafea09/jarlo-Powder-Blue-Allegra-Sheer-Floral-Embroidery-Maxi-Dress-With-Deep-V-Front-Back-Neckline.jpeg",
-      "name": "Alexander Plazo",
-      "detail": "Women's Blue Allegra Sheer Floral Embroidery Maxi Dress ",
-      "brandName": "Jarlo",
-      "totalPrice": 177,
-      "discount": 3,
-      "description": "Fits true to size, however those who are between sizes should take the larger size. Cut for a slim fit. Mid-weight, slightly stretchy, smooth woven fabric. ",
-      "id": 14
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/cettire/b8cc0664/saint-laurent-Brown-V-neck-Draped-Dress.jpeg",
-      "name": "Saint Laurent",
-      "detail": "Women's Brown Ruched Paneled Satin-jersey Maxi Dress",
-      "brandName": "Cettire",
-      "totalPrice": 5039,
-      "discount": 5,
-      "description": "SAINT LAURENT's maxi dress debuted on the Fall '22 runway, which was famously staged in front of the glittering Eiffel Tower in Paris. Cut from dark-brown satin-jersey.",
-      "id": 15
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/mytheresa/6426f964/jacquemus-white-Silk-Blend-Gown.jpeg",
-      "name": "Jacquemus",
-      "detail": "Women's White 'la Robe draggiu' Long Silk Dress",
-      "brandName": "Cettire",
-      "totalPrice": 944,
-      "discount": 5,
-      "description": "acquemus long mermaid dress made of crinkled stretch silk chiffon. This ethereal piece has a subtly draped neckline enriched by a strap around the shoulders and an asymmetric hem that grazes the floor.",
-      "id": 16
+      "id": 3,
+      "name": "John Doe",
+      "proffession": "Ortho—M",
+      "address": "New York",
+      "project_views": 9968,
+      "Appreciations": 5656,
+      "folowers": 821,
+      "following": 356,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/39cddf135803805.Y3JvcCwxMDU4LDgyNywwLDA.png"
     }
   ],
-  "StaticImage1": [
+  "medicine": [
     {
-      "image": "https://cdna.lystit.com/cms/fcd48cad_2b66_4002_9f12_6e9ad7e6efc1_c7f9d02ae0.png",
-      "name": "DENIM ON DENIM"
+      "id": 1,
+      "name": "Raman Yukhnevich",
+      "proffession": "Nordin Medical Website Redesign",
+      "address": "Pune, Mahrashtra",
+      "project_views": 9828,
+      "Appreciations": 5256,
+      "folowers": 365,
+      "following": 642,
+      "image": "https://t4.ftcdn.net/jpg/02/81/42/77/240_F_281427785_gfahY8bX4VYCGo6jlfO8St38wS9cJQop.jpg"
     },
     {
-      "image": "https://cdna.lystit.com/cms/62a57ab9_cc2d_49cb_97d5_83fc4e8751c4_9de7020b81.png",
-      "name": "ELEVATED BASICS"
+      "id": 2,
+      "name": "John Doe",
+      "proffession": "Nordin Medical Website Redesign",
+      "address": "Pune, Mahrashtra",
+      "project_views": 9968,
+      "Appreciations": 5656,
+      "folowers": 821,
+      "following": 356,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/d54151101501927.Y3JvcCwyMzY2LDE4NTEsMjE2LDA.jpg"
     },
     {
-      "image": "https://cdna.lystit.com/cms/97d22e43_344e_4fe8_a5bb_ec1043598b37_16b49046c0.png",
-      "name": "3D BLOOMS"
-    },
-    {
-      "image": "https://cdna.lystit.com/cms/b647eeb8_cc92_49cb_8d4d_c9ae9df2e3bf_7bef19f0d1.png",
-      "name": "3D BLOOMS"
+      "id": 3,
+      "name": "Nathan Viezzer",
+      "proffession": "Social Média - Odontocom",
+      "address": "England",
+      "project_views": 35526,
+      "Appreciations": 9828,
+      "folowers": 3656,
+      "following": 3002,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/109259144601661.Y3JvcCwxNDAwLDEwOTUsMCwxNTI.png"
     }
   ],
-  "StaticImage2": [
+  "clinic": [
     {
-      "image": "https://cdna.lystit.com/cms/Lyst_CA_Dreaming_600x600_No_Copy_f4872fa27c.jpg",
-      "name": "POLO RALPH LAUREN CALIFORNIA DREAMING"
+      "id": 1,
+      "name": "Villym Barber",
+      "proffession": "Social Media | Nutricionista",
+      "address": "England",
+      "project_views": 3565,
+      "Appreciations": 3266,
+      "folowers": 323,
+      "following": 125,
+      "image": "https://t3.ftcdn.net/jpg/02/78/17/56/240_F_278175694_cfZVupdpAM0R6Yf3EeFJV85audHjgmL8.jpg"
     },
     {
-      "image": "https://cdna.lystit.com/cms/Moncler_Female_mobile_20f6e9fe83.jpg",
-      "name": "MONCLER SHOP THE TRAILGRIP"
+      "id": 2,
+      "name": "Jonny Butcher",
+      "proffession": "Social Media | Nutricionista",
+      "address": "England",
+      "project_views": 3565,
+      "Appreciations": 632,
+      "folowers": 363,
+      "following": 256,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/78e9d8158627165.Y3JvcCwyNDI0LDE4OTYsMCw2.png"
     },
     {
-      "image": "https://cdna.lystit.com/cms/HP_Top_Lyst_1_3be80201f9.jpg",
-      "name": "SPRINGA '23 HAS LANDED AT MODA OPERANDI"
-    },
-    {
-      "image": "https://cdna.lystit.com/cms/b3f1914f_9c86_4308_932d_38e350901307_fecb40b13f.png",
-      "name": "BIG BAG ENERGY"
+      "id": 3,
+      "name": "Sandy Lawer",
+      "proffession": "INNATE CO.",
+      "address": "England",
+      "project_views": 3565,
+      "Appreciations": 632,
+      "folowers": 363,
+      "following": 256,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/a22b11153044661.Y3JvcCw4MDgsNjMyLDIsMA.png"
     }
   ],
-  "StaticImage3": [
-    {
-      "image": "https://cdna.lystit.com/cms/balenciaga_b4eec10d67.jpg",
-      "name": "BALENCIAGA"
+  "doctor": [
+    { 
+      "id": 1,
+      "name": "Olha Yermolaieva",
+      "proffession": "UI/UX case study - medical diagnostic center",
+      "address": "Pune, Maharashtra",
+      "project_views": 66656,
+      "Appreciations": 10366,
+      "folowers": 2121,
+      "following": 1125,
+      "image": "https://t4.ftcdn.net/jpg/01/33/33/41/240_F_133334155_X23HzbJKawbIgXVaub4bPM8CjpkS5uMS.jpg"
     },
     {
-      "image": "https://cdna.lystit.com/cms/vivienne_westwood_f7d712c58e.jpg",
-      "name": "VIVIENNE WESTWOOD"
+      "id": 2,
+      "name": "Mary Up",
+      "proffession": "Mobile App - MedEvi",
+      "address": "Hydrabad, Karnataka",
+      "project_views": 6662,
+      "Appreciations": 566,
+      "folowers": 333,
+      "following": 122,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/dbae6f169767157.Y3JvcCwyODAwLDIxOTAsMCww.png"
     },
     {
-      "image": "https://cdna.lystit.com/cms/hoka_one_one_7c61e26c5a.jpg",
-      "name": "HOKA ONE ONE"
-    },
-    {
-      "image": "https://cdna.lystit.com/cms/hoka_one_one_7c61e26c5a.jpg",
-      "name": "HOKA ONE ONE"
+      "id": 3,
+      "name": "Nathan Viezzer",
+      "proffession": "Social Média - Odontocom",
+      "address": "England",
+      "project_views": 35526,
+      "Appreciations": 9828,
+      "folowers": 3656,
+      "following": 3002,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/45bfc8164649539.Y3JvcCwxMzA5LDEwMjQsNDIsMA.png"
     }
-  ],
-  "StaticImage4": [
-    {
-      "image": "https://cdna.lystit.com/cms/ferragamo_belt_6f771dc38c.jpg",
-      "name": "FERRAGAMO BELTS"
-    },
-    {
-      "image": "https://cdna.lystit.com/cms/gucci_wallet_efb3e00367.jpg",
-      "name": "GUCCHI WALLETS AND CARDHOLDERS"
-    },
-    {
-      "image": "https://cdna.lystit.com/cms/mackage_coat_c28797a0bf.jpg",
-      "name": "MAKAGE COATS"
-    },
-    {
-      "image": "https://cdna.lystit.com/cms/prada_boots_6233e75fa8.jpg",
-      "name": "PARADA BOOTS"
-    }
-  ],
-  "dashboard-products": [
-    {
-      "image": "https://cdna.lystit.com/200/250/tr/photos/eleonorabonucci/ad8a6bec/emilio-pucci--Mini-Dress-With-Flames-Print-And-Bangs.jpeg",
-      "name": "zara",
-      "detail": "Women's Mini Dress With Flames Print And Bangs",
-      "brandName": "Emilio Pucci",
-      "totalPrice": 488,
-      "discount": 5,
-      "description": "Skirt tech-jersey jacquard Trims back Vent concealed Hook And Zip Fastening At Back stretchy Fabric mid-weight Fabric hand Wash Or Dry Clean made In Italy. 88% Polyamide 12% Elastercell. Color: natural",
-      "id": 17
-    },
-    {
-      "image": "https://cdna.lystit.com/200/250/tr/photos/eleonorabonucci/ad8a6bec/emilio-pucci--Mini-Dress-With-Flames-Print-And-Bangs.jpeg",
-      "name": "T-Shirt",
-      "detail": "Men's Purple Jumbo Arrow Over Short Sleeve T-shirt",
-      "brandName": "Off-White c/o Virgil Abloh",
-      "totalPrice": 791,
-      "discount": 7,
-      "description": "Off-WhiteTM. Jumbo Arrow Over Short Sleeve T-shirt. Oversize. Ribbed crewneck. Short sleeves. Branding printed on the chest. Faded arrow printed on the rear. Straight hem. Color: purple",
-      "id": 18
-    },
-    {
-      "image": "https://cdna.lystit.com/200/250/tr/photos/farfetch/b7a4872e/palm-angels-pink-Rainbow-Palm-Beach-Bag-Mm.jpeg",
-      "name": "Palm Angels",
-      "detail": "Women's Pink Rainbow Palm Beach Bag Mm",
-      "brandName": "THAHAB",
-      "totalPrice": 118,
-      "discount": 7,
-      "description": "Material:Polyurethane/Polyester/Calf Leather. Color: pink",
-      "id": 19
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/thahab/e80233d7/tods-Black-13k-Rubber-Sandals.jpeg",
-      "name": "Tod's",
-      "detail": "Women's Black 13k Rubber Sandals",
-      "brandName": "Tod's",
-      "totalPrice": 299,
-      "discount": 3,
-      "description": "Material: 100% rubber. Round toe. Signature interlock logo cut-out upper. Debossed logo lettering. Rubber pebble outsole. Slip-on style. Color: black",
-      "id": 20
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/thahab/c449501d/tom-ford-Off-white-Braided-Leather-Belt.jpeg",
-      "name": "Belt",
-      "detail": "Men's White Braided Leather Belt",
-      "brandName": "THAHAB",
-      "totalPrice": 2475,
-      "discount": 4,
-      "description": "Material: 100% cotton. Classic lapels. Long sleeves. Buttoned cuffs. Tricolor grosgrain trims. Single-breasted closure. Two front buttons. Three flap pockets on the front. Welt pocket on chest.",
-      "id": 21
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/thahab/52e202a1/veja-White-Venturi-Hexamesh-Low-top-Sneakers.jpeg",
-      "name": "Veja",
-      "detail": "Women's White Venturi Hexamesh Low-top Sneakers",
-      "brandName": "THAHAB",
-      "totalPrice": 198,
-      "discount": 5,
-      "description": "Material: 53% organic cotton and 47% recycled polyester. Round toe. Lace-up fastening. Logo on side. Rubber sole. Color: white",
-      "id": 22
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/thahab/635778e2/staud-Black-Ollie-Shoulder-Bag-In-Polished-Calf-Leather.jpeg",
-      "name": "STAUD",
-      "detail": "Women's White Ollie Shoulder Bag In Polished Calf Leather",
-      "brandName": "THAHAB",
-      "totalPrice": 309,
-      "discount": 5,
-      "description": "Material: 100% calf leather. Top zip closure. Shoulder strap. Tonal stitching. Hardware design. Color: white",
-      "id": 23
-    },
-    {
-      "image": "https://cdna.lystit.com/520/650/n/photos/thahab/64f7c2c5/tom-ford-Black-Logo-Patch-Mesh-Bucket-Bag.jpeg",
-      "name": "Tom Ford",
-      "detail": "Women's Black Logo Patch Mesh Bucket Bag",
-      "brandName": "THAHAB",
-      "totalPrice": 1384,
-      "discount": 5,
-      "description": "Material: 100% leather, 100% polyester. Mesh paneling. Drawstring fastening. Logo patch on front. Made in Italy. Color: black",
-      "id": 24
-    }
-  ],
-  "cartData":[
-    
   ]
 }
